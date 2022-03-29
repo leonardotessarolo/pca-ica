@@ -1,0 +1,197 @@
+country_name,cases,deaths
+Afghanistan,156250,7280
+Albania,185300,2924
+Algeria,206452,5920
+Andorra,15516,130
+Angola,64433,1710
+Antigua and Barbuda,4058,102
+Argentina,5288807,115950
+Armenia,308326,6328
+Australia,172030,1743
+Austria,830981,11357
+Azerbaijan,531370,7074
+Bahamas,22351,643
+Bahrain,276829,1393
+Bangladesh,1569539,27868
+Barbados,17763,153
+Belarus,600168,4631
+Belgium,1360650,25994
+Belize,26798,491
+Benin,24749,161
+Bhutan,2621,3
+Bolivia,513584,18925
+Bosnia and Herzegovina,252758,11495
+Botswana,186594,2406
+Brazil,21810855,607824
+Brunei,13130,88
+Bulgaria,602492,23999
+Burkina Faso,14793,214
+Burma,500073,18697
+Burundi,20039,38
+Cabo Verde,38215,349
+Cambodia,118522,2788
+Cameroon,102499,1686
+Canada,1722468,29022
+Central African Republic,11518,100
+Chad,5069,174
+Chile,1695048,37757
+China,109666,4849
+Colombia,5002387,127281
+Comoros,4259,147
+Congo (Brazzaville),17323,258
+Congo (Kinshasa),57470,1091
+Costa Rica,559698,7029
+Cote d'Ivoire,61297,695
+Croatia,470348,9220
+Cuba,952001,8236
+Cyprus,124017,575
+Czechia,1762902,30753
+Denmark,390727,2716
+Diamond Princess,712,13
+Djibouti,13478,181
+Dominica,4823,32
+Dominican Republic,381667,4130
+Ecuador,515859,32958
+Egypt,331017,18651
+El Salvador,113422,3629
+Equatorial Guinea,13368,167
+Eritrea,6834,45
+Estonia,193969,1531
+Eswatini,46421,1242
+Ethiopia,365167,6459
+Fiji,52141,674
+Finland,157531,1158
+France,7268527,118625
+Gabon,35525,239
+Gambia,9965,340
+Georgia,719247,10045
+Germany,4607958,95735
+Ghana,130077,1175
+Greece,742170,15938
+Grenada,5840,198
+Guatemala,601572,15094
+Guinea,30653,385
+Guinea-Bissau,6134,141
+Guyana,35548,913
+Haiti,23960,671
+Holy See,27,0
+Honduras,375381,10239
+Hungary,863419,30729
+Iceland,13492,33
+India,34285814,458437
+Indonesia,4244358,143405
+Iran,5924638,126303
+Iraq,2055248,23170
+Ireland,445594,5436
+Israel,1327458,8100
+Italy,4771965,132100
+Jamaica,89014,2236
+Japan,1723559,18275
+Jordan,862541,11038
+Kazakhstan,1020264,17078
+Kenya,253310,5281
+Kiribati,2,0
+"Korea, South",366386,2858
+Kosovo,160762,2977
+Kuwait,412678,2461
+Kyrgyzstan,181259,2671
+Laos,40271,65
+Latvia,219139,3253
+Lebanon,642024,8502
+Lesotho,21635,658
+Liberia,5812,287
+Libya,357338,5099
+Liechtenstein,3662,61
+Lithuania,408715,5873
+Luxembourg,81683,843
+MS Zaandam,9,2
+Madagascar,43626,963
+Malawi,61796,2301
+Malaysia,2471642,28912
+Maldives,87638,243
+Mali,16073,563
+Malta,37653,461
+Marshall Islands,4,0
+Mauritania,37320,797
+Mauritius,17698,166
+Mexico,3807211,288365
+Micronesia,1,0
+Moldova,337768,7790
+Monaco,3414,36
+Mongolia,360317,1745
+Montenegro,144314,2103
+Morocco,946145,14668
+Mozambique,151292,1930
+Namibia,128927,3554
+Nepal,812570,11407
+Netherlands,2171990,18850
+New Zealand,6595,28
+Nicaragua,16422,208
+Niger,6366,213
+Nigeria,211961,2896
+North Macedonia,202552,7132
+Norway,207280,900
+Oman,304291,4111
+Pakistan,1273560,28456
+Palau,8,0
+Panama,472664,7315
+Papua New Guinea,29715,370
+Paraguay,461006,16246
+Peru,2201796,200246
+Philippines,2787276,43172
+Poland,3025247,76999
+Portugal,1090651,18157
+Qatar,239247,610
+Romania,1648031,47751
+Russia,8377984,234194
+Rwanda,99698,1331
+Saint Kitts and Nevis,2669,23
+Saint Lucia,12559,255
+Saint Vincent and the Grenadines,4995,68
+Samoa,3,0
+San Marino,5547,92
+Sao Tome and Principe,3714,56
+Saudi Arabia,548617,8794
+Senegal,73917,1878
+Serbia,1142749,9955
+Seychelles,22243,119
+Sierra Leone,6397,121
+Singapore,198374,407
+Slovakia,483773,13034
+Slovenia,335850,4745
+Solomon Islands,20,0
+Somalia,21998,1208
+South Africa,2922116,89177
+South Sudan,12361,133
+Spain,5011148,87368
+Sri Lanka,541073,13743
+Sudan,40433,3099
+Summer Olympics 2020,865,0
+Suriname,49019,1092
+Sweden,1171512,15025
+Switzerland,872558,11234
+Syria,43146,2558
+Taiwan*,16412,847
+Tajikistan,17486,125
+Tanzania,26154,725
+Thailand,1912024,19205
+Timor-Leste,19790,122
+Togo,26079,242
+Tonga,0,0
+Trinidad and Tobago,57329,1696
+Tunisia,712747,25241
+Turkey,8032958,70611
+US,45970785,745832
+Uganda,126171,3215
+Ukraine,3058108,72073
+United Arab Emirates,739905,2136
+United Kingdom,9100442,141055
+Uruguay,393899,6078
+Uzbekistan,185963,1323
+Vanuatu,6,1
+Venezuela,407151,4891
+Vietnam,921122,22083
+West Bank and Gaza,452997,4663
+Yemen,9791,1889
+Zambia,209734,3661
+Zimbabwe,132977,4678
